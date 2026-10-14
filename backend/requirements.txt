@@ -1,0 +1,6 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+sqlalchemy==2.0.29
+pyjwt==2.8.0
+sphinx==7.2.6
+sphinx-rtd-theme==2.0.0

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# База данных
+*.db
+*.sqlite
+
+# Секреты
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Sphinx — временные файлы (HTML оставляем!)
+docs/_build/doctrees/
+docs/_build/.doctrees/
